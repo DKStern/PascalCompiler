@@ -1,0 +1,22 @@
+﻿program example;
+  var
+  y : array [1.4] of Integer;
+  a,b,c: boolean;
+  d,e:integer;
+  f,g:real;
+begin
+  a := false;
+  y = 2;
+  b := true;
+  b := a or b;
+  c := b or not (3 < 4);
+  writeln(c);
+  d := 4;
+  g := 3 - d * (5 / 2 + (1 + 2 + 1)) - (22 / (d * 2 + 2));
+  writeln(d);
+  writeln(g);
+  f:= 1.5;
+  g:= 10.10;
+  g := (10.0 / 8 + f);
+  writeln(g);
+end.

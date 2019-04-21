@@ -1,0 +1,6 @@
+C:\Users\Ermol\Desktop\PascalCompiler\PascalCompiler.Core\bin\Debug\PascalCompiler.Core.dll
+C:\Users\Ermol\Desktop\PascalCompiler\PascalCompiler.Core\bin\Debug\PascalCompiler.Core.pdb
+C:\Users\Ermol\Desktop\PascalCompiler\PascalCompiler.Core\obj\Debug\PascalCompiler.Core.csprojResolveAssemblyReference.cache
+C:\Users\Ermol\Desktop\PascalCompiler\PascalCompiler.Core\obj\Debug\PascalCompiler.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ermol\Desktop\PascalCompiler\PascalCompiler.Core\obj\Debug\PascalCompiler.Core.dll
+C:\Users\Ermol\Desktop\PascalCompiler\PascalCompiler.Core\obj\Debug\PascalCompiler.Core.pdb
