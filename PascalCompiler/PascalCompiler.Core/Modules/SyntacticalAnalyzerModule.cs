@@ -436,6 +436,7 @@ namespace PascalCompiler.Core.Modules
             }
             if (SymbolBelong(Starters.TypeDeclaration))
             {
+                var p = _context.SymbolPosition ;
                 var identifier = new Identifier
                 {
                     Class = IdentifierClass.Types,
@@ -445,7 +446,9 @@ namespace PascalCompiler.Core.Modules
                 Accept(Symbols.Equal);
                 var type = Type(followers);
                 identifier.Type = type;
-                _context.LocalScope.IdentifierTable.Add(identifier);
+                var b = _context.LocalScope.IdentifierTable.AddType(identifier);
+                if (!b)
+                    ListError(p, 101);
                 if (!SymbolBelong(followers))
                 {
                     ListError(6);
@@ -1254,7 +1257,7 @@ namespace PascalCompiler.Core.Modules
         /// <returns>Идентификатор</returns>
         private Identifier SearchIdentifier(Scope scope, string name)
         {
-            var identifier = scope.IdentifierTable.Search(_context.SymbolName);
+            var identifier = scope.IdentifierTable.Search(name);
             if (identifier != null)
                 return identifier;
             if (scope.EnclosingScope != null)

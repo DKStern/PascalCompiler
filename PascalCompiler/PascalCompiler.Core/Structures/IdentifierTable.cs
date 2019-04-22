@@ -58,6 +58,18 @@ namespace PascalCompiler.Core.Structures
         }
 
         /// <summary>
+        /// Добавление идентификатора, если его нет
+        /// </summary>
+        /// <param name="identifier">Идентификатор</param>
+        /// <returns>Успешно?</returns>
+        public bool AddType(Identifier identifier)
+        {
+            if (_identifiers.FirstOrDefault(x => x.Symbol.Name == identifier.Symbol.Name) != null)
+                return false;
+            return _identifiers.Add(identifier);
+        }
+
+        /// <summary>
         /// Поиск идентификатора
         /// </summary>
         /// <param name="symbol">Символ</param>

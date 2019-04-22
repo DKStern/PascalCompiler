@@ -8,3 +8,13 @@ C:\Users\Ermol\Desktop\PascalCompiler\PascalCompiler.Console\obj\Debug\PascalCom
 C:\Users\Ermol\Desktop\PascalCompiler\PascalCompiler.Console\obj\Debug\PascalCompiler.Console.csproj.CopyComplete
 C:\Users\Ermol\Desktop\PascalCompiler\PascalCompiler.Console\obj\Debug\PascalCompiler.Console.exe
 C:\Users\Ermol\Desktop\PascalCompiler\PascalCompiler.Console\obj\Debug\PascalCompiler.Console.pdb
+C:\Users\Ermol\Documents\GitHub\PascalCompiler\PascalCompiler\PascalCompiler.Console\bin\Debug\PascalCompiler.Console.exe.config
+C:\Users\Ermol\Documents\GitHub\PascalCompiler\PascalCompiler\PascalCompiler.Console\bin\Debug\PascalCompiler.Console.exe
+C:\Users\Ermol\Documents\GitHub\PascalCompiler\PascalCompiler\PascalCompiler.Console\bin\Debug\PascalCompiler.Console.pdb
+C:\Users\Ermol\Documents\GitHub\PascalCompiler\PascalCompiler\PascalCompiler.Console\bin\Debug\PascalCompiler.Core.dll
+C:\Users\Ermol\Documents\GitHub\PascalCompiler\PascalCompiler\PascalCompiler.Console\bin\Debug\PascalCompiler.Core.pdb
+C:\Users\Ermol\Documents\GitHub\PascalCompiler\PascalCompiler\PascalCompiler.Console\obj\Debug\PascalCompiler.Console.csprojAssemblyReference.cache
+C:\Users\Ermol\Documents\GitHub\PascalCompiler\PascalCompiler\PascalCompiler.Console\obj\Debug\PascalCompiler.Console.csproj.CoreCompileInputs.cache
+C:\Users\Ermol\Documents\GitHub\PascalCompiler\PascalCompiler\PascalCompiler.Console\obj\Debug\PascalCompiler.Console.csproj.CopyComplete
+C:\Users\Ermol\Documents\GitHub\PascalCompiler\PascalCompiler\PascalCompiler.Console\obj\Debug\PascalCompiler.Console.exe
+C:\Users\Ermol\Documents\GitHub\PascalCompiler\PascalCompiler\PascalCompiler.Console\obj\Debug\PascalCompiler.Console.pdb
